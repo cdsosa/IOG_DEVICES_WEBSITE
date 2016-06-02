@@ -1,0 +1,39 @@
+body {
+     background-color:#E6E1E5; 
+
+}
+
+.container {
+    background-color:#1D4189; 
+    margin: 1em 30em;
+    	-webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+}
+
+
+#box-wrap {
+    padding: 2em;
+    margin: auto;
+}
+
+#title {
+    color: #fff;
+    text-align: center;
+}
+
+
+#box-wrap p {
+    color: #fff;
+    font-family: "open sans";
+    text-align: center;
+}
+
+ img {
+   margin: auto;
+   display: block;
+}
+
+#logo-box {
+  margin: 2em 0;
+}

@@ -1,0 +1,47 @@
+body {
+     background:  url("http://impactograph.com/images/truckbw.jpg") no-repeat ;
+     background-size: cover;
+     height: 0 !important;
+
+}
+
+#container {
+    width: 974px;
+    margin: auto;
+}
+
+h1 {
+    color: #1d4189;
+    font-family: "proxima-nova",sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 40pt;
+    text-align: center;
+}
+
+p {
+    color: #1d4189;
+    font-weight: bold;
+    font-family: "open sans";
+    text-align: center;
+}
+
+p a{
+    color: #1d4189;
+}
+
+p a:hover{
+    color: #da272f;
+}
+
+
+.gsc-control-cse {
+    background-color: transparent !important;
+    border: none !important;
+}
+
+img {
+   margin: auto;
+   display: block;
+   padding-top: 10px;
+}
