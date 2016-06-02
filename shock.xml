@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<labels>
+    <sizeData width="7" height="5"></sizeData>
+    
+	<label min-weight="0"    max-weight="10"   min-volume="0" max-volume="1" r="0" g="176" b="93">100-G GREEN</label>
+	<label min-weight="10"   max-weight="25"   min-volume="0" max-volume="1" r="0" g="176" b="93">100-G GREEN</label>
+	<label min-weight="25"   max-weight="50"   min-volume="0" max-volume="1" r="255" g="166" b="61">75-G ORANGE</label>
+	<label min-weight="50"   max-weight="100"  min-volume="0" max-volume="1" r="255" g="166" b="61">75-G ORANGE</label>
+	<label min-weight="100"  max-weight="250"  min-volume="0" max-volume="1" r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="250"  max-weight="1000" min-volume="0" max-volume="1" r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="1000" 				   min-volume="0" max-volume="1" r="0" g="0" b="0">No Label</label>
+
+	<label min-weight="0"    max-weight="10"   min-volume="1" max-volume="6"  r="0" g="176" b="93">100-G GREEN</label>
+	<label min-weight="10"   max-weight="25"   min-volume="1" max-volume="6"  r="255" g="166" b="61">75-G ORANGE</label>
+	<label min-weight="25"   max-weight="50"   min-volume="1" max-volume="6"  r="255" g="166" b="61">75-G ORANGE</label>
+	<label min-weight="50"   max-weight="100"  min-volume="1" max-volume="6"  r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="100"  max-weight="250"  min-volume="1" max-volume="6"  r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="250"  max-weight="1000" min-volume="1" max-volume="6"  r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="1000" 				   min-volume="1" max-volume="6"  r="114" g="51" b="154">37-G PURPLE</label>
+
+	<label min-weight="0"    max-weight="10"   min-volume="6" max-volume="16"  r="255" g="166" b="61">75-G ORANGE</label>
+	<label min-weight="10"   max-weight="25"   min-volume="6" max-volume="16"  r="255" g="166" b="61">75-G ORANGE</label>
+	<label min-weight="25"   max-weight="50"   min-volume="6" max-volume="16"  r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="50"   max-weight="100"  min-volume="6" max-volume="16"  r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="100"  max-weight="250"  min-volume="6" max-volume="16"  r="114" g="51" b="154">37-G PURPLE</label>
+	<label min-weight="250"  max-weight="1000" min-volume="6" max-volume="16"  r="114" g="51" b="154">37-G PURPLE</label>
+	<label min-weight="1000"                   min-volume="6" max-volume="16"  r="255" g="253" b="86">25-G YELLOW</label>	
+
+	<label min-weight="0"    max-weight="10"   min-volume="16" max-volume="51"  r="255" g="166" b="61">75-G ORANGE</label>
+	<label min-weight="10"   max-weight="25"   min-volume="16" max-volume="51"  r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="25"   max-weight="50"   min-volume="16" max-volume="51"  r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="50"   max-weight="100"  min-volume="16" max-volume="51"  r="114" g="51" b="154">37-G PURPLE</label>
+	<label min-weight="100"  max-weight="250"  min-volume="16" max-volume="51"  r="114" g="51" b="154">37-G PURPLE</label>
+	<label min-weight="250"  max-weight="1000" min-volume="16" max-volume="51"  r="255" g="253" b="86">25-G YELLOW</label>
+	<label min-weight="1000"                   min-volume="16" max-volume="51"  r="255" g="253" b="86">25-G YELLOW</label>	
+
+	<label min-weight="0"    max-weight="10"   min-volume="51" r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="10"   max-weight="25"   min-volume="51" r="255" g="0" b="23">50-G RED</label>
+	<label min-weight="25"   max-weight="50"   min-volume="51" r="114" g="51" b="154">37-G PURPLE</label>
+	<label min-weight="50"   max-weight="100"  min-volume="51" r="114" g="51" b="154">37-G PURPLE</label>
+	<label min-weight="100"  max-weight="250"  min-volume="51" r="255" g="253" b="86">25-G YELLOW</label>
+	<label min-weight="250"  max-weight="1000" min-volume="51" r="255" g="253" b="86">25-G YELLOW</label>
+	<label min-weight="1000"                   min-volume="51" r="255" g="253" b="86">25-G YELLOW</label>		
+</labels>

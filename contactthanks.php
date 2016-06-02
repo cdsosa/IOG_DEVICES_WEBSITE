@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Have a question about one of our products? Want to know something about the order or the delivery time? We would be delighted to answer your question. "
+  />
+   <meta name="keywords" content="Impact-O-Graph Devices, transportation monitoring systems, omni-g, impact recorder m series, impact recorder, protect-a-pak, single use tilt indicator, tilt indicator, digital impact recorder, data recorder, single use shock recorder, impact-o-graph, IOG"
+  />
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <link rel="stylesheet" type="text/css" href="Styles/bootstrap.css">
+  <link rel="stylesheet" type="text/css" href="Styles/hover-min.min.css">
+  <link rel="stylesheet" type="text/css" href="Styles/animate.css">
+  <link rel="stylesheet" type="text/css" href="Styles/style.css">
+  <link rel="shortcut icon" href="images/favicon_iog.png">
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400' rel='stylesheet' type='text/css'>
+
+  <title>Contact Us - Thanks | Impact-O-Graph Devices (United States)</title>
+
+</head>
+
+<body>
+  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html"><img src="images/whitelogo_res.png"></a>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+    </div>
+
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li class="menu_links"><a href="index.html">Home</a></li>
+        <li class="menu_links"><a href="aboutus.html">About Us</a></li>
+        <li class="menu_links"><a href="products.html">Products</a></li>
+        <li class="dropdown menu_links">
+          <a href="products.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Product Pages <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="shocklabels.html">Shock Indicator Labels</a></li>
+            <li><a href="tiltindicator.html">Tilt Indicator Label</a></li>
+            <li><a href="protectapak.html">Protect-A-Pak</a></li>
+            <li><a href="omnig.html">OMNI-G</a></li>
+            <li><a href="omnigws.html">OMNI-GWS</a></li>
+            <li><a href="shockfuse.html">Shock Fuse</a></li>
+            <li><a href="transmonitor.html">Transmonitor</a></li>
+            <li><a href="transmonitortd.html">Transmonitor TD</a></li>
+            <li><a href="impactographanalog.html">Impact-O-Graph</a></li>
+            <li><a href="digishockg.html">Digi-Shock G</a></li>
+            <li><a href="digishockgt.html.html">Digi-Shock GT</a></li>
+            <li><a href="digishockxt.html">Digi-Shock XT</a></li>
+          </ul>
+        </li>
+        <li class="menu_links"><a href="/contactus.html">Contact Us</a></li>
+        <li class="menu_links"><a href="/support.html">Support</a></li>
+        <li class="menu_links"><a href="/newsevents.html">News & Events</a></li>
+        <!--<li class="menu_links"><a href="/distributor.html">Become a Distributor</a></li>-->
+      </ul>
+    </div>
+    <!-- end of mobile nav -->
+  </nav>
+
+  <div id="outerwrapper">
+    <div class="secondary-nav">
+      <p class="tagline">"Accountability is never more visible"</p>
+      <div class="phonenumber_head"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>&nbsp;Order Today at (US) (610) 251-6963
+        <br> Outside the USA (1) 610-251-6963</div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-6">
+            <script>
+              (function() {
+                    var cx = '008024285318458230614:whfnj_-zutw';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                        '//cse.google.com/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                  })();
+            </script>
+            <gcse:search></gcse:search>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- end of sec nav -->
+
+    <header role="banner">
+      <div class="container header-content">
+        <div class="row">
+          <div class="col-lg-6">
+            <div id="header-right">
+              <div id="logo_wrap">
+                <a href="/index.html"><img id="logo" src="images/impactograph_logo.png" width=350 height=40 alt=""></a>
+                <p style="text-align:center;font-size:14px!important;">IOG Products, LLC</p>
+              </div>
+              <div id="tag_wrap">
+                <p id="tagline"><em>"Accountability is never more visible"</em></p>
+              </div>
+            </div>
+          </div>
+          <!-- end of col -->
+
+          <div class="col-lg-6">
+            <div id="header-left">
+              <!-- <div id="language_selector">
+                           <dl id="Language" class="dropdown">
+                                <dt><a href="#"><span><img class="flag" src="images/us.png" alt="" > &nbsp;Select Language</span></a></dt>
+                                    <dd>
+                                        <ul>
+                                            <li><a href="#">Brazil<img class="flag" src="images/br.png" alt="" /><span class="value">BR</span></a></li>
+                                            <li><a href="#">France<img class="flag" src="images/fr.png" alt="" /><span class="value">FR</span></a></li>
+                                            <li><a href="#">Germany<img class="flag" src="images/de.png" alt="" /><span class="value">DE</span></a></li>
+                                            <li><a href="#">India<img class="flag" src="images/in.png" alt="" /><span class="value">IN</span></a></li>
+                                            <li><a href="#">Japan<img class="flag" src="images/jp.png" alt="" /><span class="value">JP</span></a></li>
+                                            <li><a href="#">Serbia<img class="flag" src="images/cs.png" alt="" /><span class="value">CS</span></a></li>
+                                            <li><a href="#">United Kingdom<img class="flag" src="images/gb.png" alt="" /><span class="value">UK</span></a></li>
+                                            <li><a href="#">United States<img class="flag" src="images/us.png" alt="" ><span class="value">US</span></a></li>
+                                        </ul>
+                                    </dd>
+                            </dl> 
+                            <span id="result"></span>
+                        </div> -->
+              <div class="phonenumber_head"> <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>&nbsp;Order Today at (US) (610) 251-6963
+                <br> Outside the USA (1) 610-251-6963</div>
+              <!--  <form id="search" action="#">
+
+                            <input class="inside_search_website" type="search" name="search" placeholder="What are you looking for?" />
+                            <input class="searchButton" type="submit" name="search" required="required" value="Search"  />
+                          </form> -->
+              <script>
+                (function() {
+                    var cx = '008024285318458230614:whfnj_-zutw';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                        '//cse.google.com/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                  })();
+              </script>
+              <gcse:search></gcse:search>
+            </div>
+          </div>
+          <!-- end of col -->
+
+        </div>
+      </div>
+
+      <div id="navigation">
+        <div id="box">
+          <ul id="menu">
+            <li class="menu_links"><a href="/index.html">Home</a></li>
+            <li class="menu_links"><a href="/aboutus.html">About Us</a></li>
+            <li id="products-drop" class="menu_links"><a href="products.html">Products <span class="glyphicon glyphicon-menu-down" aria-hidden="true"></span></a>
+              <ul>
+                <li><a href="/shocklabels.html"><span class="icon-shocklabelsicon-01"></span>Shock Indicator Labels</a></li>
+                <li><a href="/tiltindicator.html"><span class="icon-tiltindicator-01"></span>Tilt Indicator Label</a></li>
+                <li><a href="/protectapak.html"><span class="icon-protectapakicon-01"></span>Protect-A-Pak</a></li>
+                <li><a href="/omnig.html"><span class="icon-omnigicon-01"></span>OMNI-G</a></li>
+                <li><a href="/omnigws.html"><span class="icon-omnigicon-01"></span>OMNI-GWS</a></li>
+                <li><a href="/shockfuse.html"><span class="icon-shockfuseicon-01"></span>Shock Fuse</a></li>
+                <li><a href="/transmonitor.html"><span class="icon-transmonitoricon"></span>Transmonitor</a></li>
+                <li><a href="/transmonitortd.html"><span class="icon-transtdicon-01"></span>Transmonitor TD</a></li>
+                <li><a href="/impactographanalog.html"><span class="icon-iogicon-01"></span>Impact-O-Graph</a></li>
+                <li><a href="/digishockg.html"><span class="icon-digishockicon-01"></span> DIGI-SHOCK G</a></li>
+                <li><a href="/digishockgt.html"><span class="icon-digishockicon-01"></span> DIGI-SHOCK GT</a></li>
+                <li class="active-drop"><a href="/digishock.html"><span class="icon-digishockicon-01"></span>Digi-Shock XT</a></li>
+              </ul>
+            </li>
+            <li class="menu_links"><a href="/contactus.html">Contact Us</a></li>
+            <li class="menu_links"><a href="/support.html">Support</a></li>
+            <li class="menu_links"><a href="/newsevents.html">News & Events</a></li>
+            <!--<li class="menu_links"><a href="/distributor.html">Become a Distributor</a></li>-->
+          </ul>
+        </div>
+      </div>
+      <!-- end of nav -->
+    </header>
+    <!-- end of header -->
+
+    <main role="main">
+      <div class="container aboutus-res">
+        <div class="row pages-wrap-images">
+          <div class="col-lg-12">
+            <img class="product-banners" src="images/page_contactusbanner.jpg" alt="">
+            <div id="bc-bar">
+              <ol class="breadcrumb">
+                <li><a href="/index.html">Home</a></li>
+                <li class="active">Contact Us</li>
+              </ol>
+            </div>
+            <div class="pages-intro">
+              <h2 class="pg-title">Have a question about one of our products?</h2>
+              <h2 class="pg-title">Want to know something about the order or the delivery time?</h2>
+              <p class="prdhm-text"><strong>We would be delighted to answer your question.</strong></p>
+              <p class="prdhm-text"><strong>Feel free to fill out the form below.</strong></p>
+            </div>
+          </div>
+          <!-- end of col -->
+        </div>
+        <!-- end of row -->
+
+        <div class="row addresses-row">
+
+          <address class="col-lg-4">
+                <p style="color:#da272f;font-size:22px;"><b>Manufacturing</b></p>
+                <span class=" cntcicon glyphicon glyphicon-map-marker" aria-hidden="true"></span>&nbsp;  <p class="addresses">9735 Lurline Ave.<br> Chatsworth, CA 91311 USA</p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;US (818) 350-5077</p>
+                                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Outside the USA (1) 818-350-5077</p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-print" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;(1) 818-350-5090</p>
+            </address>
+
+          <!-- end of col -->
+
+
+          <address class="col-lg-4">
+                        <p style="color:#da272f;font-size:22px;"><b>Corporate Office</b></p>
+                        <span class=" cntcicon glyphicon glyphicon-map-marker" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;<p class="addresses">1025 N. Brand Blvd, Suite 301 <br>Glendale, CA 91202 USA</p>
+                        <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;US (818) 245-6956</p>
+                         <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Outside the USA (1) 818-245-6956</p>
+                        <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-print" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;(1) 818-649-1265</p><br>
+            </address>
+
+          <!-- end of col -->
+
+
+          <address class="col-lg-4">
+                <p style="color:#da272f;font-size:22px;"><b>Worldwide Sales</b></p>
+                <span class=" cntcicon glyphicon glyphicon-map-marker" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;<p class="addresses">5 Great Valley Parkway, Suite 330 <br>Malvern, PA 19355 USA</p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;US (610) 251-6963</p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Outside the USA (1) 610-251-6963</p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-print" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;(610) 889-9726</p><br>
+               <span class=" cntcicon glyphicon glyphicon-user" style="color:#1d4189;"></span>&nbsp;&nbsp;&nbsp;<h2 style="display:inline-block;color:#1d4189">Darryl Termine</h2>
+                 <p class="title phonenbrs"><span style="vertical-align: middle" class=" cntcicon glyphicon glyphicon-briefcase" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;VP Sales & International Sales Development</p>
+                        <p class="email phonenbrs"><span style="vertical-align: middle" class=" cntcicon glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;<a class="emails" href="mailto:dtermine@iogproducts.com">dtermine@iogproducts.com</a></p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;US (610) 251-6965</p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Outside the USA (1) 610-251-6965</p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;US (215) 485-2807</p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Outside the USA (1) 215-485-2807</p><br>
+                <span class=" cntcicon glyphicon glyphicon-user" style="color:#1d4189;"></span>&nbsp;&nbsp;&nbsp;<h2 style="display:inline-block;color:#1d4189">Kristen Payton</h2>
+                 <p class="title phonenbrs"><span style="vertical-align: middle" class=" cntcicon glyphicon glyphicon-briefcase" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Customer Service</p>
+                        <p class="email phonenbrs"><span style="vertical-align: middle" class=" cntcicon glyphicon glyphicon-envelope" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;<a class="emails" href="mailto:kpayton@iogproducts.com">kpayton@iogproducts.com</a></p>
+                 <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;US (610) 251-6964</p>
+                <p class="phonenbrs"><span style="vertical-align: bottom;" class=" cntcicon glyphicon glyphicon-phone-alt" aria-hidden="true"></span>&nbsp;&nbsp;&nbsp;Outside the USA (1) 610-251-6964</p>
+            </address>
+          <!-- end of col -->
+        </div>
+        <!-- end of row -->
+      </div>
+      <!-- end of container -->
+
+      <div id="form_content" class="cf-box">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-6 contactform">
+              <form class="contact-form" action="contactengine.php" method="post" role="form">
+                <h4 style="color:#1d4189;">*Fill out Form</h4>
+                <label>
+                  <input class="cntct-inputs" type="text" name="FullName" placeholder="Your Name">
+                </label>
+                <label>
+                  <select class="cntct-inputs select" name="Howdidyouhearaboutus">
+                    <option>How were you referred?</option>
+                    <option value="Email">Email</option>
+                    <option value="Amazon">Amazon</option>
+                    <option value="Previous user">Previous User</option>
+                    <option value="Search Engine">Search Engine</option>
+                  </select>
+                </label>
+                <label>
+                  <input class="cntct-inputs" type="text" name="EmailAddress" placeholder="Your Email" />
+                </label>
+                <br>
+                <label>
+                  <input class="cntct-inputs" type="text" name="CompanyName" placeholder="Your Company" />
+                </label>
+                <label>
+                  <input class="cntct-inputs" type="text" name="PhoneNumber" placeholder="Your Phone" />
+                </label>
+                <label>
+                  <input class="cntct-inputs" type="text" name="CustomerAddress" placeholder="Your Address" />
+                </label>
+                <br>
+                <label>
+                  <textarea class="txt-area" name="UserComments" placeholder="Your Comments..."></textarea>
+                </label>
+                <br>
+                <label>
+                  <input class="btn btn-success disabled" type="submit" name="submit" value="Sent!" />
+                </label>
+                <br>
+                <h2>Your message has been sent!</h2>
+                <a href="contactus.html" id="refreshform">Refresh Page</a>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- end of contact form -->
+
+      <input id="pac-input" class="controls" type="text" placeholder="Search Box">
+      <div id="map-canvas"></div>
+      <!-- google maps -->
+
+      <a href="#0" class="cd-top ">Top</a>
+      <!-- back to top -->
+
+    </main>
+
+    <footer role="contentinfo">
+      <section id="newsl-bar">
+        <h2 id="mail_list">Join Our Mailing List</h2>
+        <form id="subscribe" action="maillistengine.php" method="post" role="form">
+          <label class="news-text">Fill in information: </label>
+          <label>
+            <input class="inside_search" type="text" name="YourFullname" placeholder=" Your Name" />
+          </label>
+          <label>
+            <input class="inside_search" type="text" name="Youremail" placeholder="Your Email" />
+          </label>
+          <label>
+            <input class="searchButton_mail" type="submit" name="submit" value="Subscribe" />
+          </label>
+        <div class="g-recaptcha" data-sitekey="6LfTEh8TAAAAAPo2HQjFxFD2SyvwjZRKXVzTIdps"></div>    
+        </form>
+      </section>
+
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+
+            <div id="linkslist_1">
+              <section class="list-links-ftr">
+                <h2 class="ftr_title">Impact-O-Graph</h2>
+                <ul>
+                  <li><a href="/index.html">Home</a></li>
+                  <li><a href="/aboutus.html">About Us</a></li>
+                  <li><a href="/products.html">Products</a></li>
+                  <li><a href="/support.html">Support</a></li>
+                  <li><a href="/newsevents.html">News & Events</a></li>
+                  <li><a href="/contactus.html">Contact Us</a></li>
+                  <!--<li><a href="/distributor.html">Become a Distributor</a></li>-->
+                  <li><a href="/privacypolicy.html">Privacy Policy</a></li>
+                  <li><a href="/termsconditions.html">Terms & Conditions</a></li>
+                  <li><a href="/sitemap.html">Sitemap</a></li>
+                </ul>
+              </section>
+
+              <section class="list-links-ftr">
+                <h2 class="ftr_title">Products</h2>
+                <ul>
+                  <li><a href="/shocklabels.html">Shock Indicator Labels</a></li>
+                  <li><a href="/tiltindicator.html">Tilt Indicator Label</a></li>
+                  <li><a href="/protectapak.html">Protect-A-Pak</a></li>
+                  <li><a href="/omnig.html">OMNI-G</a></li>
+                  <li><a href="/omnigws.html">OMNI-GWS</a></li>
+                  <li><a href="/shockfuse.html">Shock Fuse</a></li>
+                  <li><a href="/transmonitor.html">Transmonitor</a></li>
+                  <li><a href="/transmonitortd.html">Transmonitor TD</a></li>
+                  <li><a href="/impactographanalog.html">Impact-O-Graph</a></li>
+                  <li><a href="/digishockg.html">Digi-Shock G</a></li>
+                  <li><a href="/digishockgt.html">Digi-Shock GT</a></li>
+                  <li><a href="/digishockxt.html">Digi-Shock XT</a></li> 
+                </ul>
+              </section>
+
+             <section class="list-links-ftr social">
+                <h2 class="ftr_title">Connect With Us</h2>
+                <ul>
+                  <li style="list-style:none;">
+                    <a class="hvr-skew-forward" href="https://plus.google.com/u/0/113872692738514130034/posts" target="_blank"><img src="images/googleplus_white.png" onmouseover="this.src='images/googleplus_red.png'" onmouseout="this.src='images/googleplus_white.png'" alt="googleplus" width="32" height="32"></a>
+                  </li>
+                  <li style="list-style:none;">
+                    <a class="hvr-skew-forward" href="https://www.linkedin.com/company/iog-products" target="_blank"><img src="images/linkedin_white.png" onmouseover="this.src='images/linkedin_red.png'" onmouseout="this.src='images/linkedin_white.png'" alt="linkedin"></a>
+                  </li>
+                  <li style="list-style:none;">
+                    <a target="_blank" class="hvr-skew-forward" href="https://www.facebook.com/Impact-O-Graph-Devices-138565783149657/?ref=hl"><img src="images/facebook_white.png" onmouseover="this.src='images/facebook_red.png'" onmouseout="this.src='images/facebook_white.png'" alt="facebook"></a>
+                  </li>
+                  <li style="list-style:none;">
+                    <a target="_blank" class="hvr-skew-forward" href="https://impactograph.newswire.com/"><img src="images/newswire_white.jpg" onmouseover="this.src='images/newswire_red.jpg'" onmouseout="this.src='images/newswire_white.jpg'" alt="facebook"></a>
+                  </li> 
+                </ul>
+                <ul>
+                  <li style="list-style:none;">
+                    <a class="hvr-skew-forward" href="https://www.youtube.com/channel/UCyOKfWuCu0aYTFJdzh-4qmg" target="_blank"><img src="images/youtube_white.png" onmouseover="this.src='images/youtube_red.png'" onmouseout="this.src='images/youtube_white.png'" alt="youtube" width="32" height="32"></a>
+                  </li>
+                <li style="list-style:none;">
+                    <a class="hvr-skew-forward" href="https://twitter.com/IOGDevices" target="_blank"><img src="images/twitter_white_logo.png" onmouseover="this.src='images/twitter_logo_red.png'" onmouseout="this.src='images/twitter_white_logo.png'" alt="youtube" width="32" height="32"></a>
+                  </li>    
+                </ul>  
+              </section>
+
+              <section class="list-links-ftr contact-ftr">
+                <h2 class="ftr_title">Contact Us</h2>
+                <ul>
+                  <li>
+                    <h4 style="margin:0;">Corporate</h4></li>
+                  <li>US (818) 245-6956</li>
+                  <li>Outside the US (1) 818-245-6956</li>
+                  <li>1025 N. Brand Blvd. Suite 301</li>
+                  <li>Glendale, CA 91202 USA</li>
+                </ul>
+
+                <ul>
+                  <li>
+                    <h4 style="margin:0;">Manufacturing</h4></li>
+                  <li>US (818) 350-5070</li>
+                  <li>Outside the US (1) 818-350-5070</li>
+                  <li> 9735 Lurline Ave.</li>
+                  <li> Chatsworth, CA 91311 USA</li>
+                </ul>
+
+                <ul>
+                  <li>
+                    <h4 style="margin:0;">Worldwide Sales Office</h4></li>
+                  <li>US (610) 251-6963</li>
+                  <li>Outside the US (1) 610-251-6963</li>
+                  <li>5 Great Valley Parkway, Suite 330</li>
+                  <li>Malvern, PA 19355 USA</li>
+                </ul>
+              </section>
+
+              <ul class="ftr-logo">
+                <li style="list-style:none;">
+                  <a href="/index.html"><img src="images/impactograph-ftrlogo.png" alt=""></a>
+                </li>
+              </ul>
+            </div>
+
+          </div>
+        </div>
+
+        <div id="rss-wrap">
+          <!-- <a><img id="rss-feed" src="images/rssfeed.png" alt="" width=20 height=20></a> -->
+        </div>
+        <!-- rss -->
+
+        <p id="copyright">&copy; IOG Products, LLC 2016 United States of America</p>
+        <!-- copyright -->
+
+      </div>
+    </footer>
+    <!-- end of footer -->
+
+  </div>
+  <!-- outerwrapper -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="http://impactograph.com/Scripts/dropdown_language.js"></script>
+  <script src="Scripts/animate.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true&libraries=places"></script>
+  <script src="Scripts/bootstrap.min.js"></script>
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+    ga('create', 'UA-57297790-2', 'auto');
+    ga('send', 'pageview');
+  </script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
+</body>
+
+</html>
